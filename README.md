@@ -1,6 +1,6 @@
 # CDVVideo
 
-NOTE:  I've edited this plugin to work with the way I was storing files on iOS.  If you want to go back to how it was, just compare the CVVideo.m files from this fork and bubblefoundry's [https://github.com/bubblefoundry/CDVVideo](CDVVideo Cordova +1.7).
+NOTE:  修改了加载远程地址时如果按done按钮，视频会在后台继续播放的bug
 
 ## Description
 CDVVideo is a Cordova/Phonegap 3.0+ plugin for iOS that allows playing video (local or remote) via a native video player. 
